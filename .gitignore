@@ -37,13 +37,7 @@ dist
 out
 .next
 
-# Environment variables and configuration
-.env
-.env.local
-.env.development
-.env.test
-.env.production
-config/local.json
+
 
 # IDE specific files
 .idea/
